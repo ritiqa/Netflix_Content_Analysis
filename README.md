@@ -55,7 +55,7 @@ Provides deeper analysis into:
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](ExecutiveOverview.png)
+![Executive Overview](ExecutiveOverview.png) 
 
 ### Content Insights
 ![Content Insights](ContentInsights.png)
